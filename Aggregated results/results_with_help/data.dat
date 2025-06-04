@@ -1,0 +1,5 @@
+#			Anonymization	Default Ob.	Low Ob.		Medium Ob.	Anonymization	Default Ob.	Low Ob.		Medium Ob.
+Detects			8		8		8		8		8		8		8		8
+Explains		8		7		7		2		8		6		2		2
+Recognizes		8		6		4		1		6		5		2		1
+Rewrites		8		7		4		1		8		8		2		1
